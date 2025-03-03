@@ -252,4 +252,4 @@ Para modificar el aspecto de la aplicación:
 
 ---
 
-Para más información sobre el servidor backend, visita el [repositorio del servidor de Audio Diarizer](https://github.com/tu-usuario/audio-diarizer).
+Para más información sobre el servidor backend, visita el [repositorio del servidor de Audio Diarizer](https://github.com/EscatGit/audio-diarizer/tree/main).
